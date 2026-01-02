@@ -8,11 +8,6 @@ GET http://localhost:8080/api/products
 GET http://localhost:8080/api/products/2
 
 POST http://localhost:8080/api/products
-{
-    "name": "calcetines hombre",
-    "price": 11.50,
-    "stock": 4
-}
 
 PUT http://localhost:8080/api/products/5
 
